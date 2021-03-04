@@ -1,0 +1,22 @@
+{
+  "name": "reactjs-hooks-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BewitchedBySycorax/reactjs-hooks-example.git"
+  },
+  "author": "Aleksei Voitovskii <al.voitovskii@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BewitchedBySycorax/reactjs-hooks-example/issues"
+  },
+  "homepage": "https://github.com/BewitchedBySycorax/reactjs-hooks-example#readme",
+  "dependencies": {
+    "reactjs": "^1.0.0"
+  }
+}
